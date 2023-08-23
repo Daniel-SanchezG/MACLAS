@@ -1,0 +1,14 @@
+,Model,Accuracy,Recall,Prec.,F1,TT (Sec)
+lightgbm,Light Gradient Boosting Machine,0.981,0.981,0.982,0.9809,3.878
+et,Extra Trees Classifier,0.9807,0.9807,0.9818,0.9806,1.483
+xgboost,Extreme Gradient Boosting,0.9779,0.9779,0.9788,0.9778,5.63
+rf,Random Forest Classifier,0.9755,0.9755,0.9769,0.9754,1.829
+dt,Decision Tree Classifier,0.9467,0.9467,0.9495,0.9461,1.347
+knn,K Neighbors Classifier,0.9121,0.9121,0.9187,0.9106,2.095
+lr,Logistic Regression,0.861,0.861,0.8673,0.8559,2.516
+nb,Naive Bayes,0.7636,0.7636,0.7765,0.7235,1.37
+lda,Linear Discriminant Analysis,0.7387,0.7387,0.7546,0.7303,1.308
+ridge,Ridge Classifier,0.6873,0.6873,0.7009,0.6553,1.355
+svm,SVM - Linear Kernel,0.6012,0.6012,0.6464,0.561,1.342
+qda,Quadratic Discriminant Analysis,0.5222,0.5222,0.6841,0.5147,1.332
+ada,Ada Boost Classifier,0.1838,0.1838,0.1296,0.1193,1.625
