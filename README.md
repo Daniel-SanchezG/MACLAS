@@ -2,7 +2,8 @@
 
 ## A Supervised Multiclass Model for mineral classificaiton of prehistoric personal adornments in Iberia
 
-[![GitHub License](https://img.shields.io/github/license/jupyter-guide/ten-rules-jupyter.svg)](https://github.com/sbl-sdsc/mmtf-spark/blob/master/LICENSE)
+[![GitHub License]([(https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE))
+
 
 This repository is a supplement to
 
