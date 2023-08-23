@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MACLAS(Mineral Archaeological Clasification System)
 
 ## A Supervised Multiclass Model for mineral classificaiton of prehistoric personal adornments in Iberia
@@ -50,3 +51,6 @@ To enable reproducibility, we provide a data directory with all data required to
 
 ## Contact Us
 If you encounter any problems with this repository, please report them [here](https://github.com/jupyter-guide/ten-rules-jupyter/issues).
+=======
+# MACLAS
+>>>>>>> b1a38b27451726441ce70312ed5d42f884c07f7c
