@@ -7,9 +7,9 @@
 
 This repository is a supplement to
 
-["Paper_1"](https://doi.org/10.1371/journal.pcbi.1007007) 
+["Paper_1"]()
 
-[![Tweets](https://img.shields.io/badge/dynamic/json.svg?url=https://api.altmetric.com/v1/id/64040119&label=Altmetric&query=$.score&style=social)](https://www.altmetric.com/details/64040119)
+
 
 **The notebooks in this directory demonstrate the development and application of  a "supervised multiclass model for mineral classification of prehistoric personal adornments in Iberia". You can reproduce the whole process, train different models and test their performance or skip the process and use the ready-made MACLAS on your own data**
 
