@@ -1,15 +1,15 @@
-<<<<<<< HEAD
 # MACLAS(Mineral Archaeological Clasification System)
 
 ## A Supervised Multiclass Model for mineral classificaiton of prehistoric personal adornments in Iberia
-[![Build Status](https://api.travis-ci.com/jupyter-guide/ten-rules-jupyter.svg?branch=master)](https://www.travis-ci.org/jupyter-guide/ten-rules-jupyter)
-[![GitHub License](https://img.shields.io/github/license/jupyter-guide/ten-rules-jupyter.svg)](https://github.com/sbl-sdsc/mmtf-spark/blob/master/LICENSE)
+
+[![GitHub License]([(https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE))
+
 
 This repository is a supplement to
 
-["Paper_1"](https://doi.org/10.1371/journal.pcbi.1007007) 
+["Paper_1"]()
 
-[![Tweets](https://img.shields.io/badge/dynamic/json.svg?url=https://api.altmetric.com/v1/id/64040119&label=Altmetric&query=$.score&style=social)](https://www.altmetric.com/details/64040119)
+
 
 **The notebooks in this directory demonstrate the development and application of  a "supervised multiclass model for mineral classification of prehistoric personal adornments in Iberia". You can reproduce the whole process, train different models and test their performance or skip the process and use the ready-made MACLAS on your own data**
 
@@ -46,11 +46,5 @@ Jupyter Notebook or Jupyter Lab in your web browser.  All notebooks can also be 
 To enable reproducibility, we provide a data directory with all data required to run the workflow. A description of the data with download location and download date is [available](./example1/data/Datasets.md).
 
 ---
-
-
-
-## Contact Us
-If you encounter any problems with this repository, please report them [here](https://github.com/jupyter-guide/ten-rules-jupyter/issues).
 =======
-# MACLAS
->>>>>>> b1a38b27451726441ce70312ed5d42f884c07f7c
+
