@@ -41191,3 +41191,58 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
  example so that they can fix the problem.
   fitted_estimator = self._memory_fit(
 
+2023-10-27 11:45:06,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:45:06,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:45:06,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:45:06,899:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:51:42,537:WARNING:/tmp/ipykernel_23755/2612161665.py:1: FutureWarning: null_counts is deprecated. Use show_counts instead
+  df.info(verbose=True, null_counts=True)
+
+2023-10-27 11:52:18,486:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:52:18,487:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:52:18,487:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:52:18,487:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-27 11:52:51,437:INFO:Initializing load_model()
+2023-10-27 11:52:51,438:INFO:load_model(model_name=strunz_classifier, platform=None, authentication=None, verbose=True)
+2023-10-27 11:52:52,155:INFO:Initializing predict_model()
+2023-10-27 11:52:52,155:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7fcdf485d340>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Mg', 'Al', 'Si', 'P', 'S', 'Cl',
+                                             'K', 'Ca', 'Sc', 'Ti', 'V', 'Cr',
+                                             'Mn', 'Fe', 'Co', 'Ni', 'Cu', 'Zn',
+                                             'Ga', 'Ge', 'As', 'Se', 'Br', 'Rb',
+                                             'Sr', 'Y', 'Zr', 'Nb', 'Mo', 'Ru', ...],
+                                    transformer=Simple...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 CalibratedClassifierCV(base_estimator=LGBMClassifier(bagging_fraction=0.9,
+                                                                      bagging_freq=4,
+                                                                      class_weight='balanced',
+                                                                      feature_fraction=0.7,
+                                                                      learning_rate=0.2,
+                                                                      min_child_samples=21,
+                                                                      min_split_gain=0,
+                                                                      n_estimators=270,
+                                                                      num_leaves=80,
+                                                                      random_state=123,
+                                                                      reg_alpha=0.005,
+                                                                      reg_lambda=0.3),
+                                        cv=5))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x7fcdf0184790>)
+2023-10-27 11:52:52,155:INFO:Checking exceptions
+2023-10-27 11:52:52,155:INFO:Preloading libraries
+2023-10-27 11:52:52,156:INFO:Set up data.
+2023-10-27 11:52:52,171:INFO:Set up index.
+2023-10-27 12:00:17,629:INFO:Initializing load_model()
+2023-10-27 12:00:17,631:INFO:load_model(model_name=classifier, platform=None, authentication=None, verbose=True)
+2023-10-27 12:00:34,334:INFO:Initializing load_model()
+2023-10-27 12:00:34,334:INFO:load_model(model_name=classifier, platform=None, authentication=None, verbose=True)
