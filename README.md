@@ -1,4 +1,4 @@
-# MACLAS(Mineral Archaeological Clasification System)
+# MACLAS(Mineral Archaeological Classification System)
 
 ## A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
@@ -14,7 +14,7 @@ This repository is a supplement to
 
 ---
 
-**1. [Model development(./Model_development.ipynb):** the entire development pipeline of the multiclass classfication model.
+**1. [Model development](./Model_development.ipynb):** the entire development pipeline of the multiclass classfication model.
 
 **2. [Proof-of-concept](./Prediction_function.ipynb):** This notebook presents a real-world use case ofe the pre-trained model. 
 
