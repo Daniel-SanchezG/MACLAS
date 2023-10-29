@@ -2,7 +2,7 @@
 
 ## A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
-[![GitHub License](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)]()
+[![GitHub License](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)](
 
 
 This repository is a supplement to
@@ -26,10 +26,10 @@ This repository is a supplement to
 
 The nbviewer links below provide a non-interactive preview of notebooks
 
-![Binder](https://mybinder.org/badge_logo.svg) buttons launch
- interactive Jupyter Notebook or Jupyter Lab in your web browser .  
+![Binder](https://mybinder.org/badge_logo.svg) buttons launch a
+ interactive Jupyter Notebook or Jupyter Lab version in your web browser.  
 
-All notebooks and data can also be downloaded directly from ths repository 
+All notebooks and data can also be downloaded directly from ths repository. 
 
 ---
 
@@ -42,8 +42,6 @@ All notebooks and data can also be downloaded directly from ths repository
 | [MACLAS.ipynb](https://nbviewer.jupyter.org/github/jupyter-guide/ten-rules-jupyter/blob/master/example1/4-Predict.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F4-Predict.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F4-Predict.ipynb)| [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/4-Predict.html) |
 
 ---
-
-**MACLAS.ipynb** Contains the pretrained model that can be used for predict on your own data
 
 To enable reproducibility, we provide a data directory with the trainig data required to run the workflow. The full dataset is available [here](./example1/data/Datasets.md).
 
