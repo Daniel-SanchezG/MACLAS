@@ -1,8 +1,8 @@
 # MACLAS(Mineral Archaeological Clasification System)
 
-## A Supervised Multiclass Model for mineral classificaiton of prehistoric personal adornments in Iberia
+## A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
-[![GitHub License]([(https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE))
+[![GitHub License](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)]()
 
 
 This repository is a supplement to
@@ -10,24 +10,26 @@ This repository is a supplement to
 ["Paper_1"]()
 
 
-
-**The notebooks in this directory demonstrate the development and application of  a "supervised multiclass model for mineral classification of prehistoric personal adornments in Iberia". You can reproduce the whole process, train different models and test their performance or skip the process and use the ready-made MACLAS on your own data**
-
-**this pipeline contains the following Notebooks:**
+**It contains the following Notebooks:**
 
 ---
 
-**1. Model development:** We perform a serie of preprocess techniques and fit twelve different classification models using the built dataset.
+**1. Model development:** the entire development pipeline of the multiclass classfication model.
 
-**2. Make a prediction:** This notebook presents a proof of work to test the generalization capacity of the model on a set of 20 archaeological samples from the northeastern coast of Spain. 
+**2. Proof-of-concept:** This notebook presents a real-world use case ofe the pre-trained model. 
 
 **3.MACLAS Model:** This notebook allows the use of the pre-trained models on new data.
 
-
 ---
 
-**Run the following notebooks and explore how we developed and applied a Mineral Archaeological CLAssification System (MACLAS).** The nbviewer links below provide a non-interactive preview of notebooks and ![Binder](https://mybinder.org/badge_logo.svg) buttons launch
-Jupyter Notebook or Jupyter Lab in your web browser.  All notebooks can also be launched directly from the links in the Workflow.ipynb top-level notebook.
+**Run the following notebooks and explore the development and application of MACLAS.** 
+
+The nbviewer links below provide a non-interactive preview of notebooks
+
+![Binder](https://mybinder.org/badge_logo.svg) buttons launch
+ interactive Jupyter Notebook or Jupyter Lab in your web browser .  
+
+All notebooks and data can also be downloaded directly from ths repository 
 
 ---
 
@@ -43,7 +45,7 @@ Jupyter Notebook or Jupyter Lab in your web browser.  All notebooks can also be 
 
 **MACLAS.ipynb** Contains the pretrained model that can be used for predict on your own data
 
-To enable reproducibility, we provide a data directory with all data required to run the workflow. A description of the data with download location and download date is [available](./example1/data/Datasets.md).
+To enable reproducibility, we provide a data directory with the trainig data required to run the workflow. The full dataset is available [here](./example1/data/Datasets.md).
 
 ---
 =======
