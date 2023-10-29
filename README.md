@@ -57,7 +57,7 @@ numpy     : 1.23.5
 pandas    : 1.4.4
 sklearn   : 1.2.2
 pycaret   : 3.0.4
-jupyterlab: 3.6.1
+jupyterlab: 3.6.1it 
 
 Compiler    : GCC 9.4.0
 OS          : Linux
