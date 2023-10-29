@@ -66,7 +66,9 @@ Machine     : x86_64
 Processor   : x86_64
 CPU cores   : 4
 Architecture: 64bit
+
 ---
+**Authors:** [Daniel Sanchez-Gomez](mailto:daniel-sanchez-gomez@edu.ulisboa.pt), Carlos P. Odriozola, Ana Caterina Sousa, Galo Romero-García, José Angel Garrido-Cordero. University of Lisbon, University of Seville Algun dia, 2023
 
 =======
 
