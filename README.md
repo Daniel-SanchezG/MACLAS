@@ -16,7 +16,7 @@ This repository is a supplement to
 
 **1.[Model development](./Model_development.ipynb):** The entire development pipeline of the multiclass classfication model.
 
-**2.[Proof-of-concept](./Prediction_function.ipynb):** This notebook presents a real-world use case of the pre-trained model. 
+**2.[Proof-of-concept](./Prediction_function.ipynb):** A real-world use case of the pre-trained model. 
 
 **3.[MACLAS Model](./MACLAS.ipynb):** This notebook allows the use of the pre-trained models on new data.
 
