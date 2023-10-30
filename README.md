@@ -49,36 +49,35 @@ To enable reproducibility, we provide a data directory with the training data re
 
 * Python implementation: CPython
 
-Python version       : 3.8.10
+* Python version       : 3.8.10
 
-IPython version      : 7.34.0
+* IPython version      : 7.34.0
 
-ipywidgets: 7.7.5
+* ipywidgets: 7.7.5
 
-matplotlib: 3.6.3
+* matplotlib: 3.6.3
 
-numpy     : 1.23.5
+* numpy     : 1.23.5
 
-pandas    : 1.4.4
+* pandas    : 1.4.4
 
-sklearn   : 1.2.2
+* sklearn   : 1.2.2
 
-pycaret   : 3.0.4
+* pycaret   : 3.0.4
 
-jupyterlab: 3.6.1it 
+* jupyterlab: 3.6.1it 
 
-Compiler    : GCC 9.4.0
+* Compiler    : GCC 9.4.0
 
-OS          : Linux
+* OS          : Linux
 
-Release     : 5.15.0-78-generic
+* Release     : 5.15.0-78-generic
 
-Machine     : x86_64
+* Machine     : x86_64
 
-Processor   : x86_64
+* Processor   : x86_64
 
-CPU cores   : 4
-
+*CPU cores   : 4
 Architecture: 64bit
 
 ---
