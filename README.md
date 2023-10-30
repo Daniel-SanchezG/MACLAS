@@ -32,8 +32,8 @@ All notebooks and data can also be downloaded directly from this repository.
 
 ---
 
-|Jupyter Notebook | Jupyter Lab | HTML |
-| ---      | --               | ---         | ---  |
+|Notebook|Jupyter Notebook | Jupyter Lab | HTML |
+| ---    |--               | ---         | ---  |
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F0-Workflow.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F0-Workflow.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/0-Workflow.html) |
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F1-CreateDataset.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F1-CreateDataset.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/1-CreateDataset.html) |
 |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F2-CalculateFeatures.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F2-CalculateFeatures.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/2-CalculateFeatures.html) |
@@ -42,7 +42,7 @@ All notebooks and data can also be downloaded directly from this repository.
 
 ---
 
-To enable reproducibility, we provide a data directory with the trainig data required to run the workflow. The full dataset is available [here](./example1/data/Datasets.md).
+To enable reproducibility, we provide a data directory with the training data required to run the workflow. The full dataset is available [here](./example1/data/Datasets.md).
 
 ---
 **Development environment**
