@@ -1,6 +1,4 @@
-# MACLAS(Mineral Archaeological Classification System)
-
-## A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
+# A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
 [![GitHub License](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)]
 
@@ -22,7 +20,7 @@ This repository is a supplement to
 
 ---
 
-**Run the following notebooks and explore the development and application of MACLAS.** 
+**Run the following notebooks and explore the development and application of MACLAS (Mineral Archaeological Classification System).** 
 
 
 ![Binder](https://mybinder.org/badge_logo.svg) buttons launch a
@@ -42,7 +40,7 @@ All notebooks and data can also be downloaded directly from this repository.
 
 ---
 
-To enable reproducibility, we provide a data directory with the training data required to run the workflow. The full dataset is available [here](./example1/data/Datasets.md).
+To enable reproducibility, we provide a data directory with the training data required to run the workflow. A full version of the dataset is available [here](https://zenodo.org/uploads/8268679).
 
 ---
 **Development environment**
