@@ -14,11 +14,11 @@ This repository is a supplement to
 
 ---
 
-**1.[Model development](./Model_development.ipynb):** The entire development pipeline of the multiclass classfication model.
+**1.Model development:** The entire development pipeline of the multiclass classfication model.
 
-**2.[Proof-of-concept](./Prediction_function.ipynb):** A real-world use case of the pre-trained model. 
+**2.Proof-of-concept:** A real-world use case of the pre-trained model. 
 
-**3.[MACLAS Model](./MACLAS.ipynb):** This notebook allows the use of the pre-trained models on new data.
+**3.MACLAS Model:** This notebook allows the use of the pre-trained models on new data.
 
 ---
 
@@ -52,7 +52,9 @@ Python version       : 3.8.10
 IPython version      : 7.34.0
 
 ipywidgets: 7.7.5
+
 matplotlib: 3.6.3
+
 numpy     : 1.23.5
 pandas    : 1.4.4
 sklearn   : 1.2.2
