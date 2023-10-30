@@ -16,7 +16,7 @@ def test():
 # these notebook must be run in order
     exec_notebook('./Workflow.ipynb')
     exec_notebook('./Model_development.ipynb')
-    exec_notebook('./Prediction_function.ipynb')
+    exec_notebook('./Proof-of-concept.ipynb')
     exec_notebook('./MACLAS.ipynb')
     
 
