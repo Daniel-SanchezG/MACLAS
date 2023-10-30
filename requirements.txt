@@ -6,4 +6,4 @@ pycaret==3.0.4
 jupyterlab==3.6.1
 watermark==2.4.3
 seaborn==0.12.2
-re==2.2.1
+
