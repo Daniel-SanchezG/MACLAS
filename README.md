@@ -1,7 +1,8 @@
 # A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
 [![GitHub License](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)]
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD)]
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD)
 
 This repository is a supplement to
 
@@ -12,9 +13,9 @@ This repository is a supplement to
 
 ---
 
-**1.Model development:** The entire development pipeline of the multiclass classfication model.
+**1.[Model development]():** The entire development pipeline of the multiclass classfication model.
 
-**2.Proof-of-concept:** A real-world use case of the pre-trained model. 
+**2.[Proof-of-concept]:** A real-world use case of the pre-trained model. 
 
 **3.MACLAS Model:** This notebook allows the use of the pre-trained models on new data.
 
