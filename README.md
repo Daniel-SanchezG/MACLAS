@@ -1,8 +1,6 @@
 # A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
 [![GitHub](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)
-
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD)
 
 This repository is a supplement to
