@@ -1,9 +1,0 @@
-Class,Precision,Recall,F1-score,Cases
-Chlorite-serpentine,0.0,0.0,0.0,0
-Clinochlore,0.6,0.33,0.44,6
-Muscovite,0.62,1.0,0.76,5
-Talc,1.0,0.83,0.90,12
-Variscite,0.0,0.0,0.0,0
-accuracy,0.73,0.73,0.73,0.73
-macro avg,0.45,0.43,0.42,23
-weighted avg,0.83,0.73,0.75,23

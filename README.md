@@ -1,7 +1,7 @@
 # A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
-[![GitHub](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD)
+[![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
+
 
 This repository is a supplement to
 
@@ -16,15 +16,11 @@ This repository is a supplement to
 
 **2.[Proof-of-concept](./Proof-of-concept.ipynb):** A real-world use case of the pre-trained model. 
 
-**3.[MACLAS Model](./MACLAS.ipynb):** This notebook allows the use of the pre-trained models on new data.
+**3.[MACLAS Model](./MACLAS.ipynb):** This notebook allows the use of the pre-trained models on new data (on binder).
 
 ---
 
-**Run the following notebooks and explore the development and application of MACLAS (Mineral Archaeological Classification System).** 
-
-
-![Binder](https://mybinder.org/badge_logo.svg) buttons launch a
- interactive Jupyter Notebook or Jupyter Lab version in your web browser.  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main)launch a **interactive** Jupyter Lab version in your web browser.  
 
 All notebooks and data can also be downloaded directly from this repository. 
 
