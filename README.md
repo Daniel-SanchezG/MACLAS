@@ -32,7 +32,7 @@ This repository is a supplement to
 | [MACLAS model.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) |
 
 ---
-To enable reproducibility, we provide a data directory with the training data required to run the workflow. A full version of the dataset is available [here](https://zenodo.org/uploads/8268679).
+To enable reproducibility, we provide a data directory with the training [data](./DATA/maclas_training.xlsx) required to run the workflow. A full version of the dataset is available [here](https://zenodo.org/uploads/8268679).
 
 ---
 **Development environment**
