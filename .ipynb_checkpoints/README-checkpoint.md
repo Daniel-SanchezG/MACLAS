@@ -1,52 +1,62 @@
-# MACLAS(Mineral Archaeological Clasification System)
+# A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
 
-## A Supervised Multiclass Model for mineral classificaiton of prehistoric personal adornments in Iberia
-[![Build Status](https://api.travis-ci.com/jupyter-guide/ten-rules-jupyter.svg?branch=master)](https://www.travis-ci.org/jupyter-guide/ten-rules-jupyter)
-[![GitHub License](https://img.shields.io/github/license/jupyter-guide/ten-rules-jupyter.svg)](https://github.com/sbl-sdsc/mmtf-spark/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
+
 
 This repository is a supplement to
 
-["Paper_1"](https://doi.org/10.1371/journal.pcbi.1007007) 
+["Paper_1"]()
 
-[![Tweets](https://img.shields.io/badge/dynamic/json.svg?url=https://api.altmetric.com/v1/id/64040119&label=Altmetric&query=$.score&style=social)](https://www.altmetric.com/details/64040119)
 
-**The notebooks in this directory demonstrate the development and application of  a "supervised multiclass model for mineral classification of prehistoric personal adornments in Iberia". You can reproduce the whole process, train different models and test their performance or skip the process and use the ready-made MACLAS on your own data**
-
-**this pipeline contains the following Notebooks:**
+**It contains the following Notebooks:**
 
 ---
 
-**1. Model development:** We perform a serie of preprocess techniques and fit twelve different classification models using the built dataset.
+**1.[Model development](./Model_development.ipynb):** The entire development pipeline of the multiclass classfication model.
 
-**2. Make a prediction:** This notebook presents a proof of work to test the generalization capacity of the model on a set of 20 archaeological samples from the northeastern coast of Spain. 
+**2.[Proof-of-concept](./Proof-of-concept.ipynb):** A real-world use case of the pre-trained model. 
 
-**3.MACLAS Model:** This notebook allows the use of the pre-trained models on new data.
-
-
----
-
-**Run the following notebooks and explore how we developed and applied a Mineral Archaeological CLAssification System (MACLAS).** The nbviewer links below provide a non-interactive preview of notebooks and ![Binder](https://mybinder.org/badge_logo.svg) buttons launch
-Jupyter Notebook or Jupyter Lab in your web browser.  All notebooks can also be launched directly from the links in the Workflow.ipynb top-level notebook.
+**3.[MACLAS model](./MACLAS.ipynb):** This notebook allows the use of the trained model on new data (on binder).
 
 ---
 
-| Nbviewer | Jupyter Notebook | Jupyter Lab | HTML |
-| ---      | --               | ---         | ---  |
-| [Workflow.ipynb](https://nbviewer.jupyter.org/github/jupyter-guide/ten-rules-jupyter/blob/master/example1/0-Workflow.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F0-Workflow.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F0-Workflow.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/0-Workflow.html) |
-| [Model_development(mineral_species).ipynb](https://nbviewer.jupyter.org/github/jupyter-guide/ten-rules-jupyter/blob/master/example1/1-CreateDataset.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F1-CreateDataset.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F1-CreateDataset.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/1-CreateDataset.html) |
-| [Model_development(Strunz_system).ipynb](https://nbviewer.jupyter.org/github/jupyter-guide/ten-rules-jupyter/blob/master/example1/2-CalculateFeatures.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F2-CalculateFeatures.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F2-CalculateFeatures.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/2-CalculateFeatures.html) |
-| [Proof-of-work.ipynb](https://nbviewer.jupyter.org/github/jupyter-guide/ten-rules-jupyter/blob/master/example1/3-FitModel.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F3-FitModel.ipynb) |[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F3-FitModel.ipynb)  | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/3-FitModel.html) |
-| [MACLAS.ipynb](https://nbviewer.jupyter.org/github/jupyter-guide/ten-rules-jupyter/blob/master/example1/4-Predict.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F4-Predict.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F4-Predict.ipynb)| [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/4-Predict.html) |
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main) launches an **interactive** Jupyter Lab version in your web browser.  
+
+All notebooks and data can also be downloaded directly from this repository. 
 
 ---
-
-**MACLAS.ipynb** Contains the pretrained model that can be used for predict on your own data
-
-To enable reproducibility, we provide a data directory with all data required to run the workflow. A description of the data with download location and download date is [available](./example1/data/Datasets.md).
+| Nbviewer | Jupyter Lab (Interactive) |
+| ---      | --                        |
+| [Model_development.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main?labpath=https%3A%2F%2Fgithub.com%2FDaniel-SanchezG%2FMACLAS%2Fblob%2Fmain%2FModel_development.ipynb) |
+| [Proof-of_concept.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Proof-of-concept.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/daniel-sanchezg-maclas-mi13f0k0/lab) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F1-CreateDataset.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/1-CreateDataset.html) |
+| [MACLAS model.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F2-CalculateFeatures.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F2-CalculateFeatures.ipynb) |
 
 ---
+To enable reproducibility, we provide a data directory with the training data required to run the workflow. A full version of the dataset is available [here](https://zenodo.org/uploads/8268679).
 
+---
+**Development environment**
 
+Python implementation: CPython,
+Python version       : 3.8.10,
+IPython version      : 7.34.0,
+ipywidgets: 7.7.5,
+matplotlib: 3.6.3,
+numpy     : 1.23.5,
+pandas    : 1.4.4,
+sklearn   : 1.2.2,
+pycaret   : 3.0.4,
+jupyterlab: 3.6.1it, 
+Compiler    : GCC 9.4.0,
+OS          : Linux,
+Release     : 5.15.0-78-generic,
+Machine     : x86_64,
+Processor   : x86_64,
+CPU cores   : 4,
+Architecture: 64bit,
 
-## Contact Us
-If you encounter any problems with this repository, please report them [here](https://github.com/jupyter-guide/ten-rules-jupyter/issues).
+---
+**Authors:** [Daniel Sanchez-Gomez](mailto:daniel-sanchez-gomez@edu.ulisboa.pt), Carlos P. Odriozola, Ana Caterina Sousa, Galo Romero-García, José Angel Garrido-Cordero. University of Lisbon, University of Seville. 
+
+=======
+
