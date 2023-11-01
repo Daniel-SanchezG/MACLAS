@@ -1,0 +1,9 @@
+Class ,Precision,Recall,f1-score,cases
+Carbonates(Nitrates),1.0,1.0,1.0,7
+Halides,1.0,1.0,1.0,2
+Oxides,0.66,1.0,0.8,2
+"Phosphates,Arsenates,Vanadates",1.0,0.95,0.97,87
+Silicates,0.89,1.0,0.94,26
+accuracy,0.96,0.96,0.96,0.96
+macro avg,0.91,0.99,0.94,124
+weighted avg,0.97,0.96,0.96,124

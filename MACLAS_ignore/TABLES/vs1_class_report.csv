@@ -1,0 +1,20 @@
+Class,Precision,Recall,f1-score,Cases
+Aheylite,1.0,1.0,1.0,5
+Aragonite,1.0,1.0,1.0,1
+Berlinite,0.5,1.0,0.66,3
+Calcite,0.66,1.0,0.8,2
+Chlorite-serpentine,1.0,1.0,1.0,1
+Clinochlore,1.0,1.0,1.0,2
+Crandallite,0.33,1.0,0.5,1
+Fluorite,1.0,1.0,1.0,1
+Metavariscite,0.0,0.0,0.0,0
+Muscovite,1.0,1.0,1.0,6
+Planerite,1.0,1.0,1.0,2
+Quartz,1.0,1.0,1.0,1
+Strengite,1.0,1.0,1.0,2
+Talc,0.0,0.0,0.0,0
+Turquoise,1.0,1.0,1.0,1
+Variscite,1.0,0.86,0.92,90
+accuracy,0.89,0.89,0.89,0.89
+macro avg,0.78,0.86,0.80,118
+weighted avg,0.97,0.89,0.92,118
