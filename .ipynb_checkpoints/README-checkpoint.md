@@ -1,4 +1,4 @@
-# A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
+# A supervised multi-class framework for mineral classification of Iberian beads
 
 [![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
 
@@ -20,19 +20,19 @@ This repository is a supplement to
 
 ---
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main) launches an **interactive** Jupyter Lab version in your web browser.  
-
-All notebooks and data can also be downloaded directly from this repository. 
-
----
-| Nbviewer | Jupyter Lab (Interactive) |
-| ---      | --                        |
-| [Model_development.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main?labpath=https%3A%2F%2Fgithub.com%2FDaniel-SanchezG%2FMACLAS%2Fblob%2Fmain%2FModel_development.ipynb) |
-| [Proof-of_concept.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Proof-of-concept.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/daniel-sanchezg-maclas-mi13f0k0/lab) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F1-CreateDataset.ipynb) | [HTML](https://rawgit.com/jupyter-guide/ten-rules-jupyter/master/example1/1-CreateDataset.html) |
-| [MACLAS model.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?filepath=example1%2F2-CalculateFeatures.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-guide/ten-rules-jupyter/master?urlpath=lab/tree/example1%2F2-CalculateFeatures.ipynb) |
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main) launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.  
+* Nbviewer links provide an static HTML version of the notebooks.
+* All notebooks and data can also be downloaded directly from this repository. 
 
 ---
-To enable reproducibility, we provide a data directory with the training data required to run the workflow. A full version of the dataset is available [here](https://zenodo.org/uploads/8268679).
+| Nbviewer |
+| ---      |
+| [Model_development.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb) |
+| [Proof-of_concept.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Proof-of-concept.ipynb) |
+| [MACLAS model.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) |
+
+---
+To enable reproducibility, we provide a data directory with the training [data](./DATA/maclas_training.xlsx) required to run the workflow. A full version of the dataset is available [here](https://zenodo.org/uploads/8268679).
 
 ---
 **Development environment**

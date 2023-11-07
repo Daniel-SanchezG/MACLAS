@@ -1,4 +1,4 @@
-# A Supervised Multiclass Model for mineral classification of prehistoric personal adornments in Iberia
+# A supervised multi-class framework for mineral classification of Iberian beads
 
 [![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
 
