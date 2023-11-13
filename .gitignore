@@ -165,7 +165,7 @@ MACLAS_ignore/
 
 MACLAS_DATASET/
 
-.ipynb_checkpoints/
+**/*.ipynb_checkpoints/
 
 
 
