@@ -56,7 +56,7 @@ CPU cores   : 4,
 Architecture: 64bit,
 
 ---
-**Authors:** [Daniel Sanchez-Gomez](mailto:daniel-sanchez-gomez@edu.ulisboa.pt), Carlos P. Odriozola, Ana Caterina Sousa, Galo Romero-García, José Angel Garrido-Cordero. University of Lisbon, University of Seville. 
+**Authors:** [Daniel Sanchez-Gomez](mailto:daniel-sanchez-gomez@edu.ulisboa.pt), Carlos P. Odriozola, Ana Caterina Sousa, José Angel Garrido-Cordero, Galo Romero-García, José María Martínez-Blanes, Manuel Edo i Benaigues, Ferrán Borrel Tena. 
 
 =======
 
