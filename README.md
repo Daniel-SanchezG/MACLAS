@@ -33,6 +33,7 @@ This repository is a supplement to
 
 ---
 To enable reproducibility, we provide a data directory with the training [data](./DATA/maclas_training.xlsx) required to run the workflow. 
+
 ---
 **Development environment**
 
