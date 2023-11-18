@@ -2,6 +2,9 @@
 
 [![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10155404.svg)](https://doi.org/10.5281/zenodo.10155404)
+
+
 
 This repository is a supplement to
 
