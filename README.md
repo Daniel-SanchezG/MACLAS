@@ -23,7 +23,7 @@ This repository is a supplement to
 
 ---
 
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main) launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.  
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD) launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.  
 * Nbviewer links provide an static HTML version of the notebooks.
 * All notebooks and data can also be downloaded directly from this repository. 
 
