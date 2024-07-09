@@ -4,6 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10155404.svg)](https://doi.org/10.5281/zenodo.10155404)
 
+[![Colab](https://img.shields.io/badge/Open%20in%20Colab-Blue)](https://colab.research.google.com/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb)
 
 
 This repository is a supplement to
@@ -40,23 +41,28 @@ To enable reproducibility, we provide a data directory with the training [data](
 ---
 **Development environment**
 
-Python implementation: CPython,
-Python version       : 3.8.10,
-IPython version      : 7.34.0,
-ipywidgets: 7.7.5,
-matplotlib: 3.6.3,
-numpy     : 1.23.5,
-pandas    : 1.4.4,
-sklearn   : 1.2.2,
-pycaret   : 3.0.4,
-jupyterlab: 3.6.1it, 
-Compiler    : GCC 9.4.0,
-OS          : Linux,
-Release     : 5.15.0-78-generic,
-Machine     : x86_64,
-Processor   : x86_64,
-CPU cores   : 4,
-Architecture: 64bit,
+Python implementation: CPython
+Python version       : 3.8.10
+IPython version      : 8.12.3
+
+ipywidgets: 7.7.5
+matplotlib: 3.6.0
+numpy     : 1.23.5
+pandas    : 1.4.4
+sklearn   : 1.2.2
+pycaret   : 3.0.4
+jupyterlab: 4.2.0
+seaborn   : 0.12.2
+imblearn  : 0.12.3
+re        : 2.2.1
+
+Compiler    : GCC 9.4.0
+OS          : Linux
+Release     : 5.15.0-113-generic
+Machine     : x86_64
+Processor   : x86_64
+CPU cores   : 4
+Architecture: 64bit
 
 ---
 **Authors:** [Daniel Sanchez-Gomez](mailto:daniel-sanchez-gomez@edu.ulisboa.pt), Carlos P. Odriozola, Ana Caterina Sousa, José Angel Garrido-Cordero, Galo Romero-García, José María Martínez-Blanes, Manuel Edo i Benaigues, Ferrán Borrel Tena. 
