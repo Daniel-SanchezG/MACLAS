@@ -4,6 +4,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10155404.svg)](https://doi.org/10.5281/zenodo.10155404)
 [![Colab](https://img.shields.io/badge/Open%20in%20Colab-Blue)](https://colab.research.google.com/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb)
+
 <a target="_blank" href="https://colab.research.google.com/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
