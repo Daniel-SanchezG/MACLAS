@@ -22,8 +22,8 @@ This repository is a supplement to
 **3.[MACLAS model](./MACLAS.ipynb):** This notebook allows the use of the trained model on new data (on binder).
 
 ---
-
-* Binder Icon launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.      ```Please note that some procedures can be computationally intensive and this may not be the best option to        perform them.```  
+* Colab is a suitable option to reproduce the procedures for those who have a google account.
+* Binder Icon launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.      ```Please note that some procedures can be computationally intensive and this may not be the best option to perform them.```  
 * Nbviewer links provide an static HTML version of the notebooks.
 * All notebooks and data can also be downloaded directly from this repository. 
 
