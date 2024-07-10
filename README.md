@@ -3,7 +3,7 @@
 [![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/MACLAS)](https://github.com/Daniel-SanchezG/MACLAS/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10155404.svg)](https://doi.org/10.5281/zenodo.10155404)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD)
 
 
 This repository is a supplement to
@@ -23,7 +23,7 @@ This repository is a supplement to
 
 ---
 
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/HEAD) launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.  
+* Binder Icon launches an **interactive** Jupyter Lab version in your browser that you can navigate and run.      ```Please note that some procedures can be computationally intensive and this may not be the best option to        perform them.```  
 * Nbviewer links provide an static HTML version of the notebooks.
 * All notebooks and data can also be downloaded directly from this repository. 
 
