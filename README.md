@@ -8,7 +8,7 @@
 
 This repository is a supplement to
 
-["A supervised multiclass framework for mineral classification of Iberian beads"]()
+["A supervised multiclass framework for mineral classification of Iberian beads"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302563)
 
 
 **It contains the following Notebooks:**
